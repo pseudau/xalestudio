@@ -1,0 +1,991 @@
+@charset "utf-8";
+
+
+
+/*IPHONE 6/6 plus----------------------------------------------------*/
+@media only screen and (min-width:375px){
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+.link-hidden-menu {
+    font-size: 4em;
+}
+
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+.barre-complete {
+    height: 2.5px;
+}
+
+.barre-incomplete {
+    height: 2.5px;
+}
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+
+h1#portfolio1 {
+    font-size: 3em;
+}
+
+h1#portfolio2 {
+    font-size: 3em;
+}
+
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+
+h1#contact1 {
+    font-size: 3em;
+}
+
+h1#contact2 {
+    font-size: 3em;
+}
+
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+}
+
+/*IPHONE X-----------------------------------------------------------*/
+@media only screen and (min-width:414px){
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+.link-hidden-menu {
+    font-size: 4.5em;
+}
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+}
+
+@media only screen and (min-width:480px){
+
+    /*HIDDEN MENU---------------------------------------------------*/
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+}
+
+/*IPAD---------------------------------------------------------------*/
+@media only screen and (min-width:768px){
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+.link-hidden-menu {
+    font-size: 6.5em;
+}
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+h1#test1 {
+    font-size: 6em;
+}
+
+h1#test2 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+.logo-about img {
+    height: 15vh;
+}
+
+.about-me-photo {
+    height: 40vh;
+}
+
+.text-about-xale {
+    font-size: .7em;
+}
+
+p.text-about-me-text {
+    font-size: .7em;
+}
+
+h4.title-skill-solo {
+    font-size: .65em;
+}
+
+.services-text {
+    font-size: .7em;
+}
+
+h3.ctnr-latest-projects {
+    font-size: .7em;
+}
+
+h3.under-title-project {
+    font-size:  .7em;
+}
+
+
+.img-projet-ctnr {
+    height: 20vh;
+}
+
+div#projet-septembre {
+    width: 100%;
+}
+
+div#projet-complementvet {
+    width: 110%;
+}
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+
+h1#portfolio1 {
+    font-size: 6em;
+}
+
+h1#portfolio2 {
+    font-size: 5em;
+}
+
+.container-text-introduction {
+    font-size:  .7em;
+    width: 75%;
+}
+
+div#projet-somfy {
+    width: 100%;
+}
+
+div#projet-saveur {
+    width: 100%;
+}
+
+div#projet-orpi {
+    width: 100%;
+}
+
+.miniature-container {
+    height: 18vh;
+}
+
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+
+h1#contact1 {
+    font-size:  6em;
+}
+
+h1#contact2 {
+    font-size: 5em;
+}
+
+p.text-info-contact {
+    font-size: .7em;
+}
+
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+
+.ultimecontainer-video {
+    height: 38.85vh;
+}
+
+section#gutai-section {
+    padding-bottom: 100px;
+}
+
+section#orpi-section {
+    padding-bottom: 215px;
+}
+
+section#mixcity-section {
+    padding-bottom: 235px;
+}
+
+section#fracture-section {
+    padding-bottom: 100px;
+}
+
+section#metro-section {
+    padding-bottom: 270px;
+}
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+
+p.title-video {
+    font-size:  1em;
+}
+
+p.video-text {
+    font-size: .7em;
+}
+
+div#description-somfy {
+    font-size: 0.7em;
+}
+
+.logo-projet {
+    width: 100%;
+}
+
+div#logo-projet-orpi {
+    height: 15vh;
+}
+
+div#logo-projet-septembre {
+    height: 20vh;
+}
+
+div#logo-projet-biotiful {
+    height: 13vh;
+}
+
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+}
+
+/*IPAD PRO-----------------------------------------------------------*/
+@media only screen and (min-width:1024px){
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+img#logo-xale {
+    width: 70px;
+}
+
+.string {
+    width: 2em;
+    margin-bottom: .5em;
+}
+
+img.social-logo {
+    width: 25px;
+}
+
+.link-hidden-menu {
+    font-size: 9em;
+}
+
+.st-last-active{
+    transform: translateY(-20px) rotate(-45deg);
+    -webkit-transform: translateY(-20px) rotate(-45deg);
+    -moz-transform: translateY(-20px) rotate(-45deg);
+    -ms-transform: translateY(-20px) rotate(-45deg);
+    -o-transform: translateY(-20px) rotate(-45deg);
+}
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+h1#test1 {
+    font-size:  8em;
+}
+
+h1#test2 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 2.3em;
+}
+
+.logo-about img {
+    height: 12vh;
+}
+
+.text-about-xale {
+    font-size: .8em;
+}
+
+p.text-about-me-text {
+    font-size: .8em;
+}
+
+h3.title-about-me-text {
+    font-size: 1.2em;
+}
+
+p.cv-text-about-me-text {
+    font-size:  0.9em;
+}
+
+.about-me-photo {
+    height: 30vh;
+}
+
+.services-text {
+    font-size:  0.8em;
+}
+
+h3.services-title-text {
+    font-size: 1.2em;
+}
+
+h3.ctnr-latest-projects {}
+
+h3.ctnr-latest-projects {
+    font-size: .9em;
+}
+
+h3.under-title-project {
+    font-size: .9em;
+}
+
+p.text-page-projet {
+    font-size: 1em;
+}
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+
+h1#portfolio1 {
+    font-size: 8em;
+}
+
+h1#portfolio2 {
+    font-size: 7em;
+}
+
+.container-text-introduction {
+    font-size: 0.9em;
+}
+
+img.pictures-title {
+    height: 4vh;
+}
+
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+
+h1#contact1 {
+    font-size: 8em;
+}
+
+h1#contact2 {
+    font-size: 7em;
+}
+
+p.text-info-contact {
+    font-size: .9em;
+}
+
+img.icone-info {
+    height: 3.5vh;
+}
+
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+
+section#fouvrière-section {
+    padding-bottom: 80px;
+}
+
+section#gutai-section {
+    padding-bottom: 185px;
+}
+
+section#orpi-section {
+    padding-bottom: 335px;
+}
+
+section#mixcity-section {
+    padding-bottom: 360px;
+}
+
+section#fracture-section {
+    padding-bottom: 185px;
+}
+
+section#metro-section {
+    padding-bottom: 405px;
+}
+
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+
+p.title-video {
+    font-size: 1.5em;
+    margin-top: 15px;
+}
+
+p.video-text {
+    font-size: 0.9em;
+}
+
+div#description-somfy {}
+
+p.text-left-side-projet {
+    font-size: 1em;
+}
+
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+}
+
+/*DESKTOP------------------------------------------------------------*/
+@media only screen and (min-width:1200px){
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+img#logo-xale {
+    width: 50px;
+}
+
+.string {
+    width: 1.5em;
+    margin-bottom: .35em;
+}
+
+img.social-logo {
+    width: 17px;
+}
+
+/*HIDDEN MENU---------------------------------------------------*/
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+    a.link-hidden-menu {
+    font-size: 6em;
+    }
+
+    #hidden-nav-ul {
+        top: 25%;
+        left: 20%;
+    }
+
+    h2{
+        font-size: 1.5em;
+    }
+
+a.link-hidden-menu:before {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 20px;
+    left: 2.5px;
+    height: 20px;
+    width: 0;
+    transition: width 0s ease, background .2s ease;
+    z-index: -1;
+    }
+
+a.link-hidden-menu:after {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 20px;
+    right: 0;
+    height: 20px;
+    width: 0;
+    background-image: linear-gradient(120deg, #b6c2ce 0%, #ffffff 100%);
+    transition: width .3s ease;
+    z-index: -1;
+    }
+
+    .string{
+        height: .1em;
+    }
+
+    .st-last-active{
+    transform: translateY(-14px) rotate(-45deg);
+    -webkit-transform: translateY(-14px) rotate(-45deg);
+    -moz-transform: translateY(-14px) rotate(-45deg);
+    -ms-transform: translateY(-14px) rotate(-45deg);
+    -o-transform: translateY(-14px) rotate(-45deg);
+}
+
+    .top-link{
+        display: block;
+    }
+
+    p.text-copyright {
+    display: block;
+    font-size: .75em;
+    }
+
+   .glitch-title1{
+    font-size: 5.5em;
+    }
+
+    h1#test1 {
+    font-size: 5.5em;
+    }
+
+    h1#test2{
+    font-size: 5.5em;
+    }
+
+    .hero-banner {
+    text-align:  left;
+    }
+
+    .logo-about img {
+    height: 18vh;
+    }
+
+    .text-about-xale {
+        margin-top: 0px;
+        font-size: .75em;
+    }
+
+    .about-me-text {
+        background-color: #ffffffed;
+
+        transform: translateX(-50px) translateY(50px);
+        -webkit-transform: translateX(-50px) translateY(50px);
+        -ms-transform: translateX(-50px) translateY(50px);
+        -moz-transform: translateX(-50px) translateY(50px);
+        -o-transform: translateX(-50px) translateY(50px);
+    }
+
+    .about-me-photo {
+        height: 55vh;
+    }
+
+    h3.title-about-me-text {
+        font-size: 1.2em;
+    }
+
+    p.text-about-me-text {
+        font-size: .75em;
+    }
+
+    p.cv-text-about-me-text {
+        font-size: .75em;
+    }
+
+    h3.title-theme {
+        font-size: 1.2em;
+    }
+
+    h4.title-skill-solo {
+        font-size: .7em;
+    }
+
+    .skill-solo-container {
+        width: 85%;
+    }
+
+    .barre-complete {
+        height: 1.5px;
+    }
+
+    .barre-incomplete {
+        height: 1.5px;
+    }
+
+    .services-text {
+        font-size: .75em;
+        width: 85%;
+    }
+
+    h3.services-title-text {
+        font-size: 1.2em;
+    }
+
+    .services-title {
+    width: 85%;
+}
+
+    h3.under-title-project {
+        font-size: .75em;
+    }
+
+    p.text-page-projet {
+        text-align:  right;
+        font-size: .9em;
+    }
+
+    h3.ctnr-latest-projects {
+    font-size: .75em;
+    }
+
+    .img-projet-ctnr {
+    height: 30vh;
+    width: 75%;
+    }
+
+    div#projet-septembre {
+    width: 75%;
+    }
+
+    div#projet-complementvet {
+    width: 85%;
+    }
+
+    div#projet-somfy {
+    width: 70%;
+    }
+
+    div#projet-saveur {
+    width: 70%;
+    }
+
+   
+
+/****************************************************************
+HOME
+*****************************************************************/
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+
+h1#portfolio1 {
+    font-size:  5.5em;
+}
+
+h1#portfolio2 {
+    font-size: 5.5em;
+}
+
+.container-text-introduction {
+    font-size: .75em;
+    width: 50%;
+}
+
+div#first-line-project {
+    margin-bottom: 20px;
+}
+
+h3.under-title-text {
+    display: block;
+}
+
+img.pictures-title {
+    height: 4vh;
+}
+
+.container-carousel {
+    width: 75%;
+}
+
+.miniature-container {
+    height: 35vh;
+    width: 85%;
+}
+
+
+/****************************************************************
+PORTFOLIO AND PICTURES
+*****************************************************************/
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+
+h1#contact1 {
+    font-size: 5.5em;
+}
+
+h1#contact2 {
+    font-size: 5.5em;
+}
+
+h2.title-article-contact {
+    font-weight: bold;
+}
+
+.col-md-4.info-contact-left {
+    text-align:  left;
+}
+
+.container-text-introduction {
+    margin-bottom: 20px;
+}
+
+
+/****************************************************************
+CONTACT
+*****************************************************************/
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+
+.ultimecontainer-video {
+    height: 85.85vh;
+}
+
+section#fouvrière-section {
+    padding-bottom: 0px;
+}
+
+section#gutai-section {
+    padding-bottom: 0px;
+}
+
+section#orpi-section {
+    padding-bottom: 0px;
+}
+
+section#mixcity-section {
+    padding-bottom: 0px;
+}
+
+section#fracture-section {
+    padding-bottom: 0px;
+}
+
+section#metro-section {
+    padding-bottom: 0px;
+}
+
+
+
+/****************************************************************
+VIDEO
+*****************************************************************/
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+p.title-video {
+    font-size: 1em;
+}
+
+.container-carousel-page-projet {
+    width: 94%;
+}
+
+p.video-text {
+    font-size: .75em;
+}
+
+.container-text-left-side-projet {
+    font-size: .75em;
+    text-align: left;
+}
+
+div#description-somfy {
+    text-align:  center;
+}
+
+div#description-hdeep {
+    text-align:  center;
+}
+
+div#description-biotiful {
+    text-align:  center;
+}
+
+.logo-projet {
+    width: 60%;
+}
+
+
+/****************************************************************
+PROJET
+*****************************************************************/
+
+
+}
+
+
+
+
+
